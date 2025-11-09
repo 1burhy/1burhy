@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAG4Oy8hyYQ/f7gXcZNEiZjxjDsR90c4KA/view" alt="GitHub Stats">
+  <img src="https://www.canva.com/design/DAG4Oy8hyYQ/Wz1HMOhhVefrows5Mj0C2Q/view" alt="GitHub Stats">
 </p>
 
 <h1 align="center">👋 Hi, I’m Burhan</h1>
