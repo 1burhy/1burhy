@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAG4Oy8hyYQ/Wz1HMOhhVefrows5Mj0C2Q/view" alt="GitHub Stats">
+  <img src="https://github.com/1burhy/1burhy/blob/main/Github%20Banner.png?raw=true" alt="GitHub Stats">
 </p>
 
 <h1 align="center">👋 Hi, I’m Burhan</h1>
