@@ -1,5 +1,5 @@
 <p align="center">
-  <blockquote class="imgur-embed-pub" lang="en" data-id="a/ihankEy"  ><a href="//imgur.com/a/ihankEy">flowers</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+  <img src="https://imgur.com/gallery/flowers-ihankEy#njhhC5E" width="900">
 </p>
 
 <h1 align="center">👋 Hi, I’m Burhan</h1>
