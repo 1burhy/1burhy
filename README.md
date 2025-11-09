@@ -1,3 +1,4 @@
+<img src="https://github-readme-stats.vercel.app/api?username=1burhy&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQFPEoGyFzoeKw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1703878883258?e=1764201600&v=beta&t=BOs5YTKcSUODTkQthBxvAH3YunwdxVmdX3gbgfhp04s" width="900">
 </p>
@@ -5,7 +6,7 @@
 <h1 align="center">👋 Hi, I’m Burhan</h1>
 
 <p align="center">
-  <em>Loading...</em>
+  <em>A passionate developer, currently leveling up my skills in C++ and cloud.</em>
 </p>
 
 ---
@@ -34,10 +35,10 @@
 ### 📊 My GitHub Stats (Updates Automatically!)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1burhy&show_icons=true&theme=dracula" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=1burhy&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1burhy&layout=compact&theme=dracula" alt="Top Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1burhy&layout=compact&theme=tokyonight" alt="Top Used Languages">
 </p>
 
 ---
