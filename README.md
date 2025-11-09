@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anIwdmNyajh4ajd3cXl6ZGtoNzhoMjJ1MTMzNnhlZzF3aWNtaWNyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FasDzeycTUNG5Ll7IA/giphy.gif" width="900">
+<img width="1200" height="480" alt="image" src="https://github.com/user-attachments/assets/80529bef-d099-4b34-84b9-527ce44481c3" /><p align="center">
+  <img src="https://www.canva.com/design/DAG4Oy8hyYQ/f7gXcZNEiZjxjDsR90c4KA/view" width="900">
 </p>
 
 <h1 align="center">👋 Hi, I’m Burhan</h1>
