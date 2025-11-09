@@ -2,12 +2,6 @@
   <img src="https://github.com/1burhy/1burhy/blob/main/Github%20Banner.png?raw=true" alt="GitHub Stats">
 </p>
 
-<h1 align="center">👋 Hi, I’m Burhan</h1>
-
-<p align="center">
-  <em>A passionate developer, currently leveling up my skills in C++ and cloud.</em>
-</p>
-
 ---
 
 ### 🌱 What I'm Currently Focused On
@@ -33,18 +27,17 @@
 
 ### 📊 My GitHub Stats (Updates Automatically!)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=1burhy&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1burhy&layout=compact&theme=tokyonight" alt="Top Used Languages">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1burhy&layout=compact&theme=tokyonight" alt="Top Used Languages">
 </p>
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/burhan-köylü-055b10272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
