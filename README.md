@@ -2,8 +2,6 @@
   <img src="https://github.com/1burhy/1burhy/blob/main/Github%20Banner.png?raw=true" alt="GitHub Stats">
 </p>
 
----
-
 ### 🌱 What I'm Currently Focused On
 
 * 🔭 I’m currently learning SQL, C++ and AWS.
