@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/gallery/flowers-ihankEy#njhhC5E" width="900">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anIwdmNyajh4ajd3cXl6ZGtoNzhoMjJ1MTMzNnhlZzF3aWNtaWNyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FasDzeycTUNG5Ll7IA/giphy.gif" width="900">
 </p>
 
 <h1 align="center">👋 Hi, I’m Burhan</h1>
